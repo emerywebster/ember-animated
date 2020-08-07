@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-animated2',
+    podModulePrefix: 'ember-animated2/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
